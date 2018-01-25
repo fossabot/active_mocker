@@ -4,6 +4,7 @@
 [![Dependency Status](https://gemnasium.com/zeisler/active_mocker.svg)](https://gemnasium.com/zeisler/active_mocker)
 [![Gitter chat](https://badges.gitter.im/zeisler/active_mocker.svg)](https://gitter.im/zeisler/active_mocker)
 [![Gittip](http://img.shields.io/gittip/zeisler.svg)](https://www.gittip.com/zeisler/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Factive_mocker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Factive_mocker?ref=badge_shield)
 
 ## Description
 Creates stub classes from any ActiveRecord model. 
@@ -444,3 +445,7 @@ Your contributions are welcome!
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Factive_mocker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Factive_mocker?ref=badge_large)
